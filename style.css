@@ -1,0 +1,12 @@
+.bg-dark-transparent {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#changecolor {
+   @media (max-width: 500px) {
+       h1 {
+           color : dark;
+       }
+       
+   }
+}
